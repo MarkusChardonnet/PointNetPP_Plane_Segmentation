@@ -1,0 +1,6 @@
+model/
+.vscode/
+__pycache__/
+venv/
+test.py
+shapenetpart_hdf5_2048/
